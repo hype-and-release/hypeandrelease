@@ -15,6 +15,11 @@ td {
 
 }
 
+vid: {
+padding-bottom: .10em;
+  
+}
+
 a:link, a:visited {
   background-color: #FFFB00;
   color: black;
